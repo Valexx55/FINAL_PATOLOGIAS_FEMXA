@@ -1,0 +1,98 @@
+
+	Isabel Martin Alonso
+	Contact: isabelmartinalonso2@gmail.com
+	GitHub: github.com/isamaralo
+	From: Avila, Spain
+
+	Tony Lopez Belinchon
+	Contact: antonio3650@gmail.com
+	GitHub: github.com/antoniolb92
+	From: Madrid, Spain
+
+	Susana Sanchez Montero
+	Contact: susanasanchez@auxiliamadrid.org
+	GitHub: github.com/Susanasanch
+	From: Madrid, Spain
+
+	Nira Maria Bethencourt Hernandez
+	Contact: nirabethencourt@gmail.com
+	GitHub: github.com/niraBH
+	From: Tenerife, Spain
+
+	Carlota Elena Sanchez Sansegundo
+	Contact: carlotasanchezsansegundo@gmail.com
+	GitHub: github.com/css94
+	From: Madrid, Spain
+	
+	Cristian Hernandez Del Caso
+	Contact: cristianhernandezdelcaso@hotmail.com
+	GitHub: github.com/Cristian8
+	From: Avila, Spain
+	
+	Dante Jeanpier Olivares Oruna
+	Contact: dante_cancer27@hotmail.com
+	GitHub: github.com/dante321
+	From: Lima, Peru
+	
+	Manuel Santiago Risquez
+	Contact: manudj_2006@hotmail.com
+	GitHub: github.com/manu160427
+	From: Madrid, Spain
+	
+	Artistic Director: Francisco Javier Moreno Pereda ("Luis Mambreche")
+	Contact: morenopereda12@gmail.com
+	GitHub: github.com/jmoremore
+	From: Albacete, Spain	
+	
+	Shallow Worker: Iulian Constantin Anghel ("Julian The Angel")
+	Contact: iulian.anghel19@gmail.com
+	GitHub: github.com/iulianang
+	From: Bucarest, Romania
+	
+	Shallow Worker: Zaineb Mazouz
+	Contact: z.m.malak@hotmail.com
+	GitHub: github.com/zaineb88
+	From: Rabat, Morocco
+	
+	Shallow Worker: Cristina Calvo Sanz
+	Contact: c.calvosanz@gmail.com
+	GitHub: github.com/crikycs
+	From: Madrid, Spain
+	
+	Shallow Worker: Alvaro Esteve Atance
+	Contact: alvarodava@gmail.com
+	GitHub: github.com/SteveR98 
+	From: Madrid, Spain
+	
+	Shallow Worker: Diego Bladimir Duque Castillo
+	Contact: diego.duque90@gmail.com
+	GitHub: github.com/dbcd
+	From: Madrid, Spain	
+
+	Daniel Garcea-Nieto Sanchez-Guijaldo
+	Contact: daniel_garciasanchez@hotmail.com
+	GitHub: github.com/danielparla
+	From: Madrid, Spain
+	
+	Rodrigo Muñoz Sanchez
+	Contact: rodrickms@gmail.com
+	GitHub: github.com/rodrick88
+	From: Madrid, Spain
+	
+	Aitor Garcea Ruiz
+	Contact: aitor.garcia.ruiz@hotmail.com
+	GitHub: github.com/AitorPCGR
+	From: Madrid, Spain
+	
+	Alvaro Garcia Fernandez
+	Contact: alvgarfer@gmail.com
+	GitHub: github.com/alvgarfer
+	From: Madrid, Spain
+	
+
+/* SITE */
+
+	Last update: 12/03/2017
+	Language: English / Español
+	Doctype: HTML5
+	IDE: Eclipse, Notepad++, PhpMyAdmin, Photoshop, MySql, OpenShift, Git
